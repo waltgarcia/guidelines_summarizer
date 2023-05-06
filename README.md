@@ -17,7 +17,7 @@ To use the script, follow these steps:
 4. Run the `summarizer.py` script using the following command: 
 
    ```
-   python summarizer.py -i <input_file> -o <output_file>
+   python v2.py -i <input_file> -o <output_file>
    ```
 
    Replace `<input_file>` with the name of your PDF document, and `<output_file>` with the desired name of the output MD file.
