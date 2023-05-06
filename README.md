@@ -1,5 +1,3 @@
-Sure, here's an example README.md file for your "guidelines_summarizer" repository on GitHub:
-
 # Guidelines Summarizer
 
 The "guidelines_summarizer" is a Python script that generates a summary of the "Guía de Referencia Rápida" a PDF document provided by the Secretaría de Salud of Mexico on the Catálogo Maestro. 
